@@ -25,6 +25,11 @@ Create a python environment called `llama3`
 $ python3 -m venv llama3
 ```
 
+Install the openai library
+```
+pip3 install openai
+```
+
 Activate the environment
 ```
 $ source llama3/bin/activate
